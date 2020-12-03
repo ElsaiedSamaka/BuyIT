@@ -28,7 +28,7 @@ BuyIT is another e-commrce application to sell and show your products. The data 
 * Install apk that match with your device and enjoy the experince
 
 ## Preview
-![](Movie-Brower.gif)
+![](e-commerce.gif)
 
 
 ## Author
